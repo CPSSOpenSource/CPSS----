@@ -7,7 +7,8 @@ CPSS 동아리 에서 활용한 PPT 자료를 모아놓은 레포토리입니다
 만약 Git이 설치되어 있다면, <code>git clone https://github.com/CPSSOpenSource/CPSS_Basic_PPT.git</code> 명령어를 입력하십시오.
 
 # 자료 올리기
-1. <code>git clone hhttps://github.com/CPSSOpenSource/CPSS_Basic_PPT.git</code> 명령어를 입력해 레포토리를 복제합니다.
+1. <code>git clone https://github.com/CPSSOpenSource/CPSS_Basic_PPT.git</code> 명령어를 입력해 레포토리를 복제합니다.<br />
+만약 프로젝트를 이미 복제했다면 해당 과정을 다시 할 필요가 없습니다.
 2. 해당 레포토리 폴더에 원하는 파일을 올린 다음 <code>git add .</code>을 입력하십시오.
 3. 해당 파일에 대한 커밋 메세지를 설정하십시오. 에를 들어 <code>git commit -m "원하는 메세지"</code>로 설정할 수 있습니다.
 4. <code>git push origin master</code>를 통해 최종적으로 업데이트 하십시오.
