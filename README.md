@@ -21,5 +21,9 @@ git에 대한 자세한 설명은 아래 자료 출처를 참고하시기 바랍
 
 # 자료 출처
 해당 자료들은 아래 자료를 바탕으로 만들었습니다.
-점프 투 파이썬 : https://wikidocs.net/book/1
-Git tutorial : https://git-scm.com/docs/gittutorial
+- 점프 투 파이썬 : https://wikidocs.net/book/1
+- Git tutorial : https://git-scm.com/docs/gittutorial
+
+# 기타 문의
+- 동아리 이메일: support@cpss.network
+- 대표 이메일: ruskonert@gmail.com
