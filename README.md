@@ -30,5 +30,5 @@ git에 대한 자세한 설명은 아래 자료 출처를 참고하시기 바랍
 해당 강의 자료들은 자료 출처를 대부분 참고하여 제작되었으며, Public domain을 따릅니다.
 
 # 기타 문의
-- 동아리 이메일: support@cpss.network
-- 대표 이메일: ruskonert@gmail.com
+- 동아리 이메일: cpsslab@gmail.com
+- 대표 이메일: gfiky1546@naver.com
