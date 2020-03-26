@@ -31,4 +31,4 @@ git에 대한 자세한 설명은 아래 자료 출처를 참고하시기 바랍
 
 # 기타 문의
 - 동아리 이메일: cpsslab@gmail.com
-- 대표 이메일: gfiky1546@naver.com
+- 대표 이메일:cpssmgyu@gmail.com
